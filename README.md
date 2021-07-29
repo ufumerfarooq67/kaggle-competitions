@@ -1,2 +1,1 @@
-# kaggle-competitions
-Kaggle competition solutions
+Kaggle Competition
